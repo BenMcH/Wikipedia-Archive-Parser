@@ -1,0 +1,9 @@
+[package]
+
+name = "wikipedia_parser"
+version = "0.0.1"
+authors = [ "Benjamin McHone" ]
+
+[[bin]]
+
+name = "wikipedia_parser"
